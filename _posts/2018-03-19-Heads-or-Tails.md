@@ -1,4 +1,5 @@
 ---
-layout:Heads or Tails
+layout: Heads or Tails
 ---
+
 Hello
